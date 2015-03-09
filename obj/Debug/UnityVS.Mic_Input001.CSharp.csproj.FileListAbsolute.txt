@@ -1,0 +1,11 @@
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\obj\Debug\UnityVS.Mic_Input001.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\obj\Debug\Assembly-CSharp.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\Oculus\Oculus0.4.4\Mic_Input001\obj\Debug\Assembly-CSharp.pdb
